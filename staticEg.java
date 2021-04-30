@@ -55,7 +55,7 @@ public class staticEg {
 //cant declare static varibale in normal methods for eg
 // static variables are used for memory management ebcause of this program becomes memory efficeint and saves memory 
 
-/**
+/**for eg
  * 
  *  void eg() {
  *  
