@@ -33,7 +33,7 @@ public class staticBlock
 
 
         System.out.println(example(10,20));
-       A.lol();
+         A.lol();
 
 
 

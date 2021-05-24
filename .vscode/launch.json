@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch normal",
+            "request": "launch",
+            "mainClass": "Oops.normal",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch accessMod",
+            "request": "launch",
+            "mainClass": "Oops.accessMod",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch searching",
+            "request": "launch",
+            "mainClass": "searching",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch instanceop",
+            "request": "launch",
+            "mainClass": "instanceop",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch breakEg",
+            "request": "launch",
+            "mainClass": "breakEg",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch staticBlock",
+            "request": "launch",
+            "mainClass": "staticBlock",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
