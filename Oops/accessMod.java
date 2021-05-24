@@ -5,7 +5,7 @@ public class accessMod {
     private int gun;
     private String name="Hello";
 
-    public int getGun() {
+    private int getGun() {
 
         return gun;
 
@@ -14,7 +14,6 @@ public class accessMod {
 
     public String getName()
     {
-
 
         return name;
 
@@ -25,7 +24,12 @@ public class accessMod {
 
         accessMod am= new accessMod();
         am.getGun();
+        System.out.println(am.getName());
         System.out.println(am.gun=12);
         System.out.println(am.name);
+        /**
+         * We can access the private DM or methods  within the class 
+         * 
+         */
     }
 }
