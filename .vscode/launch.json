@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Quiz",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.Quiz",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mainn",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.Mainn",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.Main",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch encap",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.encap",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch constExe",
+            "request": "launch",
+            "mainClass": "Oops.Constructor.constExe",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch squareSum",
+            "request": "launch",
+            "mainClass": "Oops.Constructor.squareSum",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch thisConstructor",
+            "request": "launch",
+            "mainClass": "Oops.Constructor.thisConstructor",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "Oops.Constructor.Demo",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MOverload",
+            "request": "launch",
+            "mainClass": "Oops.PolyMorphishm.MOverload",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch getterSetter",
+            "request": "launch",
+            "mainClass": "Oops.getterSetter",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch staticEmp",
+            "request": "launch",
+            "mainClass": "staticEmp",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
             "name": "Launch normal",
             "request": "launch",
             "mainClass": "Oops.normal",

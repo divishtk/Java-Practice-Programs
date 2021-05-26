@@ -14,7 +14,6 @@ public class staticEmp {
         salary = sal;
         Dept = deptt;
         address=add;
-        staticEmp.comp = Company;
       // System.out.println(name +" "+salary+ " "+Dept+ " "+address+" "+comp);
 
 
