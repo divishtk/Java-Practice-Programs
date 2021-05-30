@@ -1,0 +1,10 @@
+What is the super Keyword? #
+As you already know that this keyword in Java is used to refer to the instance of the current class.
+
+In a similar fashion, the super keyword in Java is used to refer to the SuperClass members from inside the immediate Subclass. The use of super comes into play when we implement inheritance.
+
+Use Cases of the super Keyword #
+The super keyword is used in three major contexts:
+
+Accessing Parent Class Fields #
+Consider the fields named as fuelCap defined inside a Vehicle class to keep track of the fuel capacity of a vehicle. Another class named as Car extends from this Vehicle class. We declare a field inside the Car class with the same name i.e. fuelCap but different value. Now if we want to refer to the fuelCap field of the SuperClass inside the Subclass, we will then have to use the super keyword.

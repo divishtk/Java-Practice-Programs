@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Mainss",
+            "request": "launch",
+            "mainClass": "Inheritance.Mainss",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mains",
+            "request": "launch",
+            "mainClass": "Inheritance.Mains",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Inheritance.Main",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Vechile",
+            "request": "launch",
+            "mainClass": "Inheritance.Vechile",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch initBlock",
+            "request": "launch",
+            "mainClass": "initBlock",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.string",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
             "name": "Launch Quiz",
             "request": "launch",
             "mainClass": "Oops.DataHiding.Quiz",
