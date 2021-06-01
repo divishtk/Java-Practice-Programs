@@ -1,0 +1,53 @@
+Single Inheritance #
+In single inheritance, there is only a single class extending from another class. We can take the example of the Vehicle class (Super class) and the Car class (Sub class). Let’s implement these classes below:
+
+
+
+Multi-level Inheritance #
+When a class is derived from such a class which itself is derived from another class, this type of inheritance is called Multilevel Inheritance. Classes can be extended to any further levels as per the requirement of the model.
+
+A Car IS A Vehicle
+A Prius IS A Car
+
+
+
+Hierarchical Inheritance #
+When more than one classes inherit from the same class, it is referred to as hierarchical inheritance. In hierarchical inheritance, more than one classes extend, as per the requirement of the design, from the same base class. The common attributes of these child classes are implemented inside the base class.
+
+Example:
+
+A Car IS A Vehicle
+A Truck IS A Vehicle
+
+
+
+Multiple Inheritance #
+When a class is derived from more than one base class, i.e. when a class has more than one immediate parent classes, this type of inheritance is called Multiple Inheritance.
+
+Example:
+
+A Hyundai Elantra IS A Car.
+A Hyundai Elantra IS A Sedan also.
+
+
+
+
+
+Hybrid Inheritance #
+A type of inheritance which is a combination of Multiple and Multi-level inheritance is called hybrid inheritance.
+
+A combustion engine is an engine
+An electric motors engine is an engine
+A Hybrid engine combines both combustion engine and electric motors.
+
+
+
+Advantages of Inheritance
+In this lesson, you'll get to know about the advantages of using Inheritance.
+
+We'll cover the following
+
+Re-usability
+Avoiding Duplication of Code
+Extensibility
+Data Hiding

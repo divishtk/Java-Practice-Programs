@@ -30,6 +30,7 @@ At this point, a question can be raised that if the methods and variables are en
 
 Well, the answer to this is simple. One has to implement public methods to let the outside world communicate with this class. These methods can be getters, setters and any other custom methods implemented by the programmer.
 
+Binding or warapping of data in a single unit or class .Simply means we make the variables private and implement getter and setters to access the private data.
 
 
 
@@ -38,3 +39,6 @@ Classes are easier to change and maintain.
 We can specify which data member we want to keep hidden or accessible.
 We decide which variables have read/write privileges (increases flexibility).
 In the next lesson, we’ll learn more about Encapsulation with the help of some examples.
+
+
+

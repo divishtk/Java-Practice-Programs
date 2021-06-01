@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Mainnnss",
+            "request": "launch",
+            "mainClass": "InheritanceAndSuper.TypesInheritance.Mainnnss",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "InheritanceAndSuper.TypesInheritance.Main",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Menu",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.Menu",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
             "name": "Launch Mainss",
             "request": "launch",
             "mainClass": "Inheritance.Mainss",

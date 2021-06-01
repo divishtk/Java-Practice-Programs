@@ -1,4 +1,4 @@
-package Inheritance;
+package InheritanceAndSuper;
 
 public class superkey {
     
