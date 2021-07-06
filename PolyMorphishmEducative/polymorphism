@@ -45,4 +45,4 @@ Base class/method must not be declared as the Final class.
 
 In dynamic polymorsphsim we use the reference of the base class. Thegor eg
 Shape s1=new Circle();
-Shape s2=new Rectanngle();
+Shape s2=new Rectanngle();  

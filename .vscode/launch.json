@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch overloadSUper",
+            "request": "launch",
+            "mainClass": "PolyMorphishmEducative.overloadSUper",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
             "name": "Launch Hellooo",
             "request": "launch",
             "mainClass": "strings.Hellooo",
