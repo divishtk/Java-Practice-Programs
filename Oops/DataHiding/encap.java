@@ -40,8 +40,8 @@ public class encap {
     {
 
         encap e=new encap("Divisht","Admin123");//Creates a new user and stores the password and username
-       // e.login("Divisht","Admin123");//Grants access because credentials are valid
-        //e.login("Divisht","Admin");       //Does not grant access because the credentials are invalid
+      //  e.login("Divisht","Admin123");//Grants access because credentials are valid
+       // e.login("Divisht","Admin");       //Does not grant access because the credentials are invalid
         e.Password="Hello";         //Store  and change  the password without auth
         e.login("Divisht","Hello");// GRANTS ACCESS BUT THIS SHOULD NOT HAVE HAPPENED!
 

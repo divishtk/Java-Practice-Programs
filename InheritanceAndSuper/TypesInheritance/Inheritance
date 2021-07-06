@@ -1,13 +1,35 @@
+
+
+
+
+
 Single Inheritance #
 In single inheritance, there is only a single class extending from another class. We can take the example of the Vehicle class (Super class) and the Car class (Sub class). Let’s implement these classes below:
+
+
+
+
+
+
+
 
 
 
 Multi-level Inheritance #
 When a class is derived from such a class which itself is derived from another class, this type of inheritance is called Multilevel Inheritance. Classes can be extended to any further levels as per the requirement of the model.
 
-A Car IS A Vehicle
-A Prius IS A Car
+A Car IS A Vehicle.
+A Prius IS A Car.
+
+
+
+
+'
+
+
+
+
+
 
 
 
@@ -18,6 +40,8 @@ Example:
 
 A Car IS A Vehicle
 A Truck IS A Vehicle
+
+
 
 
 
@@ -43,11 +67,27 @@ A Hybrid engine combines both combustion engine and electric motors.
 
 
 Advantages of Inheritance
-In this lesson, you'll get to know about the advantages of using Inheritance.
-
-We'll cover the following
-
 Re-usability
 Avoiding Duplication of Code
 Extensibility
 Data Hiding
+
+
+
+RESUEABILITY
+
+Inheritance makes the code reusable. Consider that you are up for designing a banking system using classes. Your model might have these:
+
+A base BankAccount class
+A derived class named SavingsAccount
+A derived class named CheckingAccount
+
+For eg in derived class saving acc u wanna use method or attri checkBalance or  getDetails no need to rewrite the code just extend the base class and reuse it
+
+
+Avoiding Duplication of Code #
+Considering the above example, you don’t need to duplicate the code for the deposit() and withdraw() methods inside the child classes namely SavingsAccount and CheckingAccount. In this way, you can avoid the duplication of code.
+
+
+Data Hiding #
+The base class can decide to keep some data private so that it cannot be altered by the derived class. This concept i.e. encapsulation has already been discussed in the previous chapter.

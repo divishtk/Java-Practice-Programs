@@ -1,6 +1,7 @@
 package InheritanceAndSuper.TypesInheritance;
 
 public class multiVechile {
+  
     private int topSpeed;
 
     public void setTopSpeed(int speed) {

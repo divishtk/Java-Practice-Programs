@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Hellooo",
+            "request": "launch",
+            "mainClass": "strings.Hellooo",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "patterns.pattern",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch realEncape",
+            "request": "launch",
+            "mainClass": "realEncape",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch e",
+            "request": "launch",
+            "mainClass": "e",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch lol",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.lol",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch realTimeEncap",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.realTimeEncap",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encapsulations",
+            "request": "launch",
+            "mainClass": "Oops.DataHiding.Encapsulations",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mmain",
+            "request": "launch",
+            "mainClass": "InheritanceAndSuper.TypesInheritance.Mmain",
+            "projectName": "Java DSA_b5d28d1c"
+        },
+        {
+            "type": "java",
             "name": "Launch Mainnnss",
             "request": "launch",
             "mainClass": "InheritanceAndSuper.TypesInheritance.Mainnnss",
